@@ -14,28 +14,29 @@ tags: [Portfolio]
 **주요 업무** 
 
 백오피스(프론트, 백엔드)
+
 커머스, 예약, 숙박 서비스(백엔드)
 
 **주요 사용 기술**
 
-Frontend: vue js
+Frontend: Vue js
 
-Backend: python django
+Backend: Python Django
 
-Server: aws ecs fargate
+Server: Aws Ecs Fargate
 
-Database: rds postgresql 9.6.5
+Database: Rds Postgresql 9.6.5
 
 
 **기타 사용 기술**
 
 결제 시스템 > KG 이니시스 빌링 모듈 (php)
 
-고객 홈페이지 서버 구성 > route53 + elb(alb) + ecs fargate
+고객 홈페이지 서버 구성 > Route53 + Elb(Alb) + Ecs Fargate
 
 이미지 대체 텍스트 저장 > Lambda + Api Gateway + DynamoDB
 
-이메일 보내기 > ses + sns + lambda + dynamodb
+이메일 보내기 > Ses + Sns + Lambda + Dynamodb
 
-DynamoDB에 이메일 목록이 있을 경우 반송된 이메일로 간주하고 보내지 아니함.
+이메일 목록이 있을 경우 반송된 이메일로 간주하고 보내지 아니함.
 
