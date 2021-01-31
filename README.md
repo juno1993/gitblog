@@ -1,10 +1,10 @@
-# Type on Strap 🎨
+# Juno1993's Blog 🎨
 
 [![Build Status](https://travis-ci.org/sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/sylhare/Type-on-Strap)
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
 [![Docker Pulls](https://img.shields.io/docker/pulls/sylhare/type-on-strap)](https://hub.docker.com/r/sylhare/type-on-strap)
 
-[![Default Type on Strap blog](https://github.com/Sylhare/Type-on-Strap/blob/master/screenshot.png?raw=true)](https://sylhare.github.io/Type-on-Strap/)
+[![Default Juno1993's Blog blog](https://github.com/Sylhare/Type-on-Strap/blob/master/screenshot.png?raw=true)](https://sylhare.github.io/Type-on-Strap/)
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) packed with extra features and easily cusomizable:
 
@@ -26,7 +26,7 @@ A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chan
 
   - [Usage](#usage)
   - [Structure](#structure)
-  - [Configure Type on Strap](#configure-type-on-strap)
+  - [Configure Juno1993's Blog](#configure-type-on-strap)
   - [Other Layouts](#other-layouts)
   - [Feature pages](#feature-pages)
   - [Advanced](#advanced)
@@ -40,7 +40,7 @@ Check out this tutorial: [Use as Ruby Gem](https://github.com/Sylhare/Type-on-St
 
 ### As a github page 📋
 
-1. Fork and clone the [Type on Strap repo](https://github.com/sylhare/Type-On-Strap): `git clone https://github.com/Sylhare/Type-on-Strap.git`
+1. Fork and clone the [Juno1993's Blog repo](https://github.com/sylhare/Type-On-Strap): `git clone https://github.com/Sylhare/Type-on-Strap.git`
 2. Install [Jekyll](https://jekyllrb.com/docs/installation/): `gem install jekyll`, check [#1](https://github.com/Sylhare/Type-on-Strap/issues/1) if you have a problem.
 3. Install the theme's dependencies: `bundle install`
 4. Customize the theme
@@ -78,7 +78,7 @@ Type-on-Strap
 └── index.html                 # sample home page (blog page paginated)
 ```
 	
-## Configure Type on Strap 🛠
+## Configure Juno1993's Blog 🛠
 
 Open `_config.yml` in a text editor to change most of the blog's settings.
 
@@ -96,7 +96,7 @@ baseurl: ""
 url: "https://username.github.io"
 ```
 
-Jekyll website *with* "baseurl" (like the Type on Strap [demo](https://sylhare.github.io/Type-on-Strap/) page):
+Jekyll website *with* "baseurl" (like the Juno1993's Blog [demo](https://sylhare.github.io/Type-on-Strap/) page):
 
 ```yml
 baseurl: "/sub-directory"

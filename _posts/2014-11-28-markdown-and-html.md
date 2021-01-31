@@ -55,7 +55,7 @@ while (j < 20) {
 
 ### Math
 
-Type on Strap uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
+Juno1993's Blog uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
 
 Alternatively, they can be shown on a new line:
 
