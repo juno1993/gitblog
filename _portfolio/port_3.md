@@ -3,7 +3,7 @@ layout: post
 title: 마트 예약 배달 서비스
 feature-img: "assets/img/portfolio/port_3.png"
 img: "assets/img/portfolio/port_3.png"
-date: 31 January 2021
+date: 2021-01-31
 tags: [Portfolio]
 ---
 
@@ -17,9 +17,20 @@ tags: [Portfolio]
 
 **주요 업무** 
 
-백오피스(프론트, 백엔드)
+백오피스 담당
 
-배송 예약 서비스(백엔드)
+배달 주문 기능
+
+지점별 배달 가능 시간 설정 기능
+
+배송비 조건 설정 기능 
+
+주문 상태 변경시 로직 구현
+
+쿠폰, 적립금 기능
+
+통계 > 매출 분석(일별, 주별, 월별), 상품 분석 기능
+
 
 **주요 사용 기술**
 

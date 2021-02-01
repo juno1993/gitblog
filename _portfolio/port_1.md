@@ -3,7 +3,7 @@ layout: post
 title: 웹/앱 솔루션
 feature-img: "assets/img/portfolio/port_1.png"
 img: "assets/img/portfolio/port_1.png"
-date: 31 January 2021
+date: 2021-01-31
 tags: [Portfolio]
 ---
 
