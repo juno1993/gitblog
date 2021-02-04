@@ -42,5 +42,3 @@ Database: Rds Postgresql 9.6.5
 
 이메일 보내기 > Ses + Sns + Lambda + Dynamodb
 
-이메일 목록이 있을 경우 반송된 이메일로 간주하고 보내지 아니함.
-
