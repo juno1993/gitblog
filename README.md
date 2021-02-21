@@ -4,7 +4,7 @@
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
 [![Docker Pulls](https://img.shields.io/docker/pulls/sylhare/type-on-strap)](https://hub.docker.com/r/sylhare/type-on-strap)
 
-[![Default Juno1993's Blog blog](https://github.com/Sylhare/Type-on-Strap/blob/master/screenshot.png?raw=true)](https://sylhare.github.io/Type-on-Strap/)
+[![Default Juno1993's Blog blog](https://github.com/juno1993/gitblog/blob/master/screenshot.png?raw=true)](https://sylhare.github.io/Type-on-Strap/)
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) packed with extra features and easily cusomizable:
 
@@ -36,15 +36,15 @@ A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chan
 
 ### As a ruby gem 💎
 
-Check out this tutorial: [Use as Ruby Gem](https://github.com/Sylhare/Type-on-Strap#use-as-ruby-gem)
+Check out this tutorial: [Use as Ruby Gem](https://github.com/juno1993/gitblog#use-as-ruby-gem)
 
 ### As a github page 📋
 
-1. Fork and clone the [Juno1993's Blog repo](https://github.com/sylhare/Type-On-Strap): `git clone https://github.com/Sylhare/Type-on-Strap.git`
-2. Install [Jekyll](https://jekyllrb.com/docs/installation/): `gem install jekyll`, check [#1](https://github.com/Sylhare/Type-on-Strap/issues/1) if you have a problem.
+1. Fork and clone the [Juno1993's Blog repo](https://github.com/juno1993/gitblog): `git clone https://github.com/juno1993/gitblog.git`
+2. Install [Jekyll](https://jekyllrb.com/docs/installation/): `gem install jekyll`, check [#1](https://github.com/juno1993/gitblog/issues/1) if you have a problem.
 3. Install the theme's dependencies: `bundle install`
 4. Customize the theme
-	- Github Page: [update `_config.yml`](https://github.com/Sylhare/Type-on-Strap#site-configuration)
+	- Github Page: [update `_config.yml`](https://github.com/juno1993/gitblog#site-configuration)
 5. Run the Jekyll server: `bundle exec jekyll serve`
 
 ## Structure
